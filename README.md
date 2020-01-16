@@ -6,4 +6,4 @@ That's what this repository will be for! I hope it not only helps when it comes 
 
 ## _Table of Contents_
 
-1. `data_gather.py`: A Python script that gathers data for a specified Twitter user and returns data in CSV format. Please note: you will need to set up a [Twitter Developer account](https://developer.twitter.com/) to gain access to your keys and tokens! 
+1. [`data_gather.py`](https://github.com/Jearny58/Useful_Python_Scripts/blob/master/data_gather.py): A Python script that gathers data for a specified Twitter user and returns data in CSV format. Please note: you will need to set up a [Twitter Developer account](https://developer.twitter.com/) to gain access to your keys and tokens! Also, I set up a `conda` environment, which I then stored my keys/tokens in as environment variables. It isn't as hard as it sounds! Just follow along with this [article](https://towardsdatascience.com/how-to-hide-your-api-keys-in-python-fb2e1a61b0a0) by Brendan Connelly, and it should be pretty straightforward. 
