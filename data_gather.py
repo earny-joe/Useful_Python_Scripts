@@ -1,3 +1,4 @@
+# THIS IS AN UPDATED COMMENT TO MAKE SURE GIT WORKS CORRECTLY
 # Python script that gathers data for a specified user and returns data in CSV format
 import os
 import csv
